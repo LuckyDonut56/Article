@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+Lib/
+Brass/
+Keyboards/
+Strings/
+Winds/
+TinySOL/
